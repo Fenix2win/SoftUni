@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd630f12-0990-4e67-bc5f-fe9a6411405f": {
+      "ProjectGuid": "bd630f12-0990-4e67-bc5f-fe9a6411405f",
+      "DisplayName": "Scheduling",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
