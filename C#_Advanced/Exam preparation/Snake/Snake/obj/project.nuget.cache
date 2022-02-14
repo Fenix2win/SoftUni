@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWdI1LSJrtOomXbAj8epujSsd8FzXNnCTLVqPf3VOH7pQ2uUXPZPQG5N/Fvm3/yk/zqfoN38JnETEQZebMmMTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\IEnumerators\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Производство\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
