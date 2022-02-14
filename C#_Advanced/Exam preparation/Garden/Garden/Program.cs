@@ -46,6 +46,10 @@ namespace Garden
                     }
                     garden[rowPlant,colPlant]-=1;
                 }
+                else
+                {
+                    Console.WriteLine("Invalid coordinates.");
+                }
                 
                  command = Console.ReadLine();
 

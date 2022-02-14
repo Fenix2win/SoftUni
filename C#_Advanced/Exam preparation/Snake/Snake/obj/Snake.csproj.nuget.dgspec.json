@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\IEnumerators\\Snake\\Snake\\Snake.csproj": {}
+    "C:\\Users\\Fenix\\Desktop\\GitHub\\SoftUni\\SoftUni\\C#_Advanced\\Exam preparation\\Snake\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\IEnumerators\\Snake\\Snake\\Snake.csproj": {
+    "C:\\Users\\Fenix\\Desktop\\GitHub\\SoftUni\\SoftUni\\C#_Advanced\\Exam preparation\\Snake\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\IEnumerators\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\Fenix\\Desktop\\GitHub\\SoftUni\\SoftUni\\C#_Advanced\\Exam preparation\\Snake\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\IEnumerators\\Snake\\Snake\\Snake.csproj",
-        "packagesPath": "C:\\Users\\Производство\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\IEnumerators\\Snake\\Snake\\obj\\",
+        "projectPath": "C:\\Users\\Fenix\\Desktop\\GitHub\\SoftUni\\SoftUni\\C#_Advanced\\Exam preparation\\Snake\\Snake\\Snake.csproj",
+        "packagesPath": "C:\\Users\\Fenix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fenix\\Desktop\\GitHub\\SoftUni\\SoftUni\\C#_Advanced\\Exam preparation\\Snake\\Snake\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Производство\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fenix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.21, 3.1.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
