@@ -1,0 +1,14 @@
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.exe
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.deps.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.dev.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.dll
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.pdb
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.csproj.AssemblyReference.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfoInputs.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfo.cs
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.csproj.CoreCompileInputs.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.dll
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.pdb
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.genruntimeconfig.cache
