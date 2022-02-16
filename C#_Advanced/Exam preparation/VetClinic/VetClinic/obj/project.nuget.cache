@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lO2GVoEetkHzhQ0Y4IpRnzcMygQGFW5TTvxLOsKSEOQJFjfaQ+6xr5ELJvAnKIGNde7mKI95illm7RPSlUercg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\VetClinic\\VetClinic\\VetClinic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Производство\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
