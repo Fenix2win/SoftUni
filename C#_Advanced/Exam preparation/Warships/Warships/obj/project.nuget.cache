@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0HXQnBNvFtKXqNMb4wmOV9g/WQZ5W0EHN27xlnciPF5k7njDpNfpzVMJcjLgQz8ghQ8htg7O13ni9arGhrLpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\IEnumerators\\Warships\\Warships\\Warships.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Производство\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

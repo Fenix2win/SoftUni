@@ -1,0 +1,14 @@
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.AssemblyReference.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache

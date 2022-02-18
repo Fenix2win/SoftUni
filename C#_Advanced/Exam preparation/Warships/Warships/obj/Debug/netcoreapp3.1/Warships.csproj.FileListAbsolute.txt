@@ -1,0 +1,14 @@
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.exe
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.deps.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.runtimeconfig.dev.json
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.dll
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\bin\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.csproj.AssemblyReference.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfoInputs.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.AssemblyInfo.cs
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.csproj.CoreCompileInputs.cache
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.dll
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.pdb
+C:\Users\Производство\source\repos\ExamPreparation\IEnumerators\Warships\Warships\obj\Debug\netcoreapp3.1\Warships.genruntimeconfig.cache
