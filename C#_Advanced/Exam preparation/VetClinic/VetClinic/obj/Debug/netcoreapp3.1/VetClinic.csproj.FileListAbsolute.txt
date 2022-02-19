@@ -12,3 +12,17 @@ C:\Users\Производство\source\repos\ExamPreparation\VetClinic\VetClin
 C:\Users\Производство\source\repos\ExamPreparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
 C:\Users\Производство\source\repos\ExamPreparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
 C:\Users\Производство\source\repos\ExamPreparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.AssemblyReference.cache
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+C:\Users\Fenix\Desktop\GitHub\SoftUni\SoftUni\C#_Advanced\Exam preparation\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

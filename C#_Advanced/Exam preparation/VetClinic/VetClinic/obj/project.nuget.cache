@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lO2GVoEetkHzhQ0Y4IpRnzcMygQGFW5TTvxLOsKSEOQJFjfaQ+6xr5ELJvAnKIGNde7mKI95illm7RPSlUercg==",
+  "dgSpecHash": "N1ydXdVC89vQq0AOfFypfUAvnX8drpxCtUfOcLOS7ew5jT6Vca0KkP7Icy2prif4KnCVGPi5YRyFLzmr8MU0uQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Производство\\source\\repos\\ExamPreparation\\VetClinic\\VetClinic\\VetClinic.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Производство\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Fenix\\Desktop\\GitHub\\SoftUni\\SoftUni\\C#_Advanced\\Exam preparation\\VetClinic\\VetClinic\\VetClinic.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
