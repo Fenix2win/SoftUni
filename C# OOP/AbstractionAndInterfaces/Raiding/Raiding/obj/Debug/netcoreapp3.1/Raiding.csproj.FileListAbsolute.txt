@@ -1,0 +1,14 @@
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Raiding\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

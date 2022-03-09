@@ -1,0 +1,14 @@
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\Vehicles\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

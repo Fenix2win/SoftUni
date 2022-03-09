@@ -1,0 +1,14 @@
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.AssemblyReference.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\WildFarm\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\SoftUni\source\OOP\AbstractionAndInterfaces\PersonInfo\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

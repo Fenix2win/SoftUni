@@ -1,0 +1,14 @@
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\bin\Debug\netcoreapp3.1\Encapsulatiion.exe
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\bin\Debug\netcoreapp3.1\Encapsulatiion.deps.json
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\bin\Debug\netcoreapp3.1\Encapsulatiion.runtimeconfig.json
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\bin\Debug\netcoreapp3.1\Encapsulatiion.runtimeconfig.dev.json
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\bin\Debug\netcoreapp3.1\Encapsulatiion.dll
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\bin\Debug\netcoreapp3.1\Encapsulatiion.pdb
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.csproj.AssemblyReference.cache
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.AssemblyInfoInputs.cache
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.AssemblyInfo.cs
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.dll
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.pdb
+E:\SoftUni\source\OOP\Encapsulation\Encapsulatiion\Encapsulatiion\obj\Debug\netcoreapp3.1\Encapsulatiion.genruntimeconfig.cache

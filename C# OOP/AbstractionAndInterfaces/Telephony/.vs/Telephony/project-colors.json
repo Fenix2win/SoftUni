@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37a7af06-117b-43bb-8dee-2bf025f1db33": {
+      "ProjectGuid": "37a7af06-117b-43bb-8dee-2bf025f1db33",
+      "DisplayName": "Telephony",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

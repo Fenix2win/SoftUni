@@ -1,0 +1,14 @@
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

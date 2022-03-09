@@ -1,0 +1,13 @@
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+E:\SoftUni\source\OOP\Inheritance\01. Person_Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache

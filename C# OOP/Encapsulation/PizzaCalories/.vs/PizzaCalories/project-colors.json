@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e74b48b9-2586-49b4-a925-0072ac44b515": {
+      "ProjectGuid": "e74b48b9-2586-49b4-a925-0072ac44b515",
+      "DisplayName": "PizzaCalories",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
