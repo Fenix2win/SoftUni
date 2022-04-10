@@ -1,0 +1,14 @@
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.exe
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.deps.json
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.json
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.runtimeconfig.dev.json
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.dll
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\bin\Debug\netcoreapp3.1\SmartphoneShop.pdb
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.AssemblyReference.cache
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfoInputs.cache
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.AssemblyInfo.cs
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.csproj.CoreCompileInputs.cache
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.dll
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.pdb
+E:\SoftUni\OOP Exam\SmartphoneShop\SmartphoneShop\obj\Debug\netcoreapp3.1\SmartphoneShop.genruntimeconfig.cache

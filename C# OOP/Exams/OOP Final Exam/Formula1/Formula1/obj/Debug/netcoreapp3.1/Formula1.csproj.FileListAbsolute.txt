@@ -1,0 +1,14 @@
+E:\SoftUni\OOP Exam\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+E:\SoftUni\OOP Exam\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+E:\SoftUni\OOP Exam\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+E:\SoftUni\OOP Exam\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+E:\SoftUni\OOP Exam\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+E:\SoftUni\OOP Exam\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+E:\SoftUni\OOP Exam\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache
