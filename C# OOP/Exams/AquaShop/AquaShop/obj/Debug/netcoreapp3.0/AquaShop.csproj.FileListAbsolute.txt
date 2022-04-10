@@ -1,0 +1,13 @@
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+E:\SoftUni\OOP Exam_Prep\10042021\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
